@@ -1,6 +1,6 @@
 <?php
 ob_start();
-define('API_KEY','1800108840:AAFD33wG3wQIX2yc14oya8MwyAOjOfwcoh0');
+define('API_KEY','bot tokeni ....');
 $botim = "QR_reading_Bot";
 $admin = array("1092338349","1494841611");
    function del($nomi){
